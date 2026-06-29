@@ -6,12 +6,28 @@ I'm <b>Nesrine Ben Dhia</b>, a Computer Engineering student from <b>Tunisia</b> 
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-<ul>
-  <li>🎓 Third-year Computer Engineering student</li>
-  <li>💻 Passionate about Software Engineering & Web Development</li>
-  <li>🚀 Interested in AI, Full Stack Development, and problem solving</li>
-  <li>🌍 Fluent in Arabic, French, and English</li>
-</ul>
+```javascript
+const nesrine = {
+  pronouns: "she" | "her",
+  code: [Java, Python, JavaScript, PHP, C#, HTML, CSS, SQL],
+  frameworks: [Angular, Node.js, Django, ASP.NET, Java EE],
+  databases: [MySQL, MongoDB, NoSQL],
+  tools: [Git, GitHub, Docker, Postman, UML, Scrum],
+  architecture: ["REST APIs", "full-stack web applications", "MVC pattern"],
+  roles: {
+    student: "3rd-year Computer Engineering student",
+    teachingAssistant: true,
+    freelancer: true
+  },
+  interests: [
+    "Software Engineering",
+    "Full-Stack Development",
+    "Artificial Intelligence",
+    "Problem Solving"
+  ],
+  languages: ["Arabic", "French", "English", "Turkish"],
+  goal: "Become a strong software engineer and build impactful real-world projects"
+}
 
 <h3>Things I code with</h3>
 <p>
