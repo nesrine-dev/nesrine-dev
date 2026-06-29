@@ -27,7 +27,7 @@ const nesrine = {
   ],
   languages: ["Arabic", "French", "English", "Turkish"],
   goal: "Become a strong software engineer and build impactful real-world projects"
-}```
+};
 
 <h3>Things I code with</h3>
 <p>
