@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>
-Welcome to my GitHub profile! </br>
+Welcome to my GitHub profile!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </br>
 I'm <b>Nesrine Ben Dhia</b>, a Computer Engineering student from <b>Tunisia</b> 🇹🇳, currently studying in <b>Medipol University, Istanbul</b> 🇹🇷.
 </p>
 
