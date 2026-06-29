@@ -5,7 +5,7 @@ Welcome to my GitHub profile!<img src="https://media.giphy.com/media/mGcNjsfWAjY
 I'm <b>Nesrine Ben Dhia</b>, a Computer Engineering student from <b>Tunisia</b> 🇹🇳, currently studying in <b>Medipol University, Istanbul</b> 🇹🇷.
 </p>
 
-<h3>About me</h3>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 <ul>
   <li>🎓 Third-year Computer Engineering student</li>
   <li>💻 Passionate about Software Engineering & Web Development</li>
