@@ -5,7 +5,7 @@ Welcome to my GitHub profile!<img src="https://media.giphy.com/media/mGcNjsfWAjY
 I'm <b>Nesrine Ben Dhia</b>, a Computer Engineering student from <b>Tunisia</b> 🇹🇳, currently studying in <b>Medipol University, Istanbul</b> 🇹🇷.
 </p>
 
-<p>### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript
 const nesrine = {
   pronouns: "she" | "her",
@@ -27,7 +27,7 @@ const nesrine = {
   ],
   languages: ["Arabic", "French", "English", "Turkish"],
   goal: "Become a strong software engineer and build impactful real-world projects"
-},</p>
+}```
 
 <h3>Things I code with</h3>
 <p>
