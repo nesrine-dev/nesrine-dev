@@ -54,7 +54,7 @@ const nesrine = {
 
 <h3>Where to find me</h3>
 <p>
-  <a href="[www.linkedin.com/in/nesrine-ben-dhia-523713283](https://www.linkedin.com/in/nesrine-ben-dhia-523713283/)" target="_blank">
+ <a href="https://www.linkedin.com/in/nesrine-ben-dhia-523713283" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/nesrine-dev" target="_blank">
