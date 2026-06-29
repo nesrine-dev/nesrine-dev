@@ -46,17 +46,18 @@ const nesrine = {
 
 <h3>What I'm working on</h3>
 <ul>
-  <li>📌 Building full-stack web applications</li>
-  <li>📌 Improving problem-solving & algorithms skills</li>
-  <li>📌 Working on university & personal projects</li>
+  <li>🚀 Building full stack real-world web applications</li>
+  <li>📚 Improving algorithms & data structures</li>
+  <li>🧠 Practicing system design & backend architecture</li>
+  <li>🎯 Preparing for internships & professional experience</li>
 </ul>
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/nesrine-ben-dhia-523713283" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/nesrine-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
