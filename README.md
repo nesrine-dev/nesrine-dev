@@ -2,7 +2,7 @@
 
 <p>
 Welcome to my GitHub profile!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </br>
-I'm <b>Nesrine Ben Dhia</b>, a Computer Engineering student from <b>Tunisia</b> 🇹🇳, currently studying in <b>Medipol University, Istanbul</b> 🇹🇷.
+I'm <b>Nesrine Ben Dhia</b>, a Computer Engineering student from <b>Tunisia</b> 🇹🇳, currently studying in <b>Medipol University, Istanbul</b> 🇹🇷 currently focused on building AI/ML projects from the ground up.
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -26,7 +26,7 @@ const nesrine = {
     "Problem Solving"
   ],
   languages: ["Arabic", "French", "English", "Turkish"],
-  goal: "Become a strong software engineer and build impactful real-world projects"
+  goal: "Build production ready AI systems and become a strong software/ML engineer"
 };
 ```
 
@@ -46,10 +46,10 @@ const nesrine = {
 
 <h3>What I'm working on</h3>
 <ul>
-  <li>🚀 Building full stack real-world web applications</li>
-  <li>📚 Improving algorithms & data structures</li>
-  <li>🧠 Practicing system design & backend architecture</li>
-  <li>🎯 Preparing for internships & professional experience</li>
+  <li> - 🧠 Building AI/ML projects from scratch (neural networks, RAG systems)</li>
+  <li> - 🚀 Building full stack real world web applications</li>
+  <li> - 📚 Improving algorithms & data structures</li>
+  <li> - 🎯 Preparing for internships & professional experience</li>
 </ul>
 
 <h3>Where to find me</h3>
